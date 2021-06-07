@@ -1,1 +1,31 @@
 theme: jekyll-theme-hacker
+
+
+title: Cache Miss
+email: taylor.he7@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  I ramble about programming and maybe some other topics.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://taylorhe.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
+show_excerpts: true
+
+header_pages:
+  - secret-page.md
+  - about.markdown
+
+# Featured Post
+featured_post: perfect-forwarding
+
+# future: false
+
+# Social
+# twitter_username: 
+github_username:  taylorhe
+linkedin_username: taylorhe
+
+# Build settings
+theme: jekyll-theme-hacker
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
