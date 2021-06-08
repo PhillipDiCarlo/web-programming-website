@@ -1,28 +1,12 @@
 ## Phillip DiCarlo
 
-You can use the [editor on GitHub](https://github.com/PhillipDiCarlo/web-programming-website/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+COMPUTER SCIENCE STUDENT STRIVING FOR THE BEST
 
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+[Education](education.md)
+[Work & Skills](work-skills.md)
+[About Me](about.md)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-Click on this [relative link](test.md)
